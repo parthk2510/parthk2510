@@ -1,6 +1,6 @@
 <h1>Hi, I'm Parth ! <br/><a href="https://www.linkedin.com/in/parthkulkarni2510/">Cybersecurity Professional</a></h1>
 <p>
-<a href="https://wa.me/919920646238?text=Hi+Parth" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://wa.me/7304672422?text=Hi+Parth" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:kparth2510@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/parthkulkarni2510/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
